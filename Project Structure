@@ -1,0 +1,11 @@
+ecommerce-churn-analysis/
+├── data/
+│   ├── raw/
+│   │   └── ecommerce_data.csv
+│   └── processed/
+│       └── churn_data.csv
+├── notebooks/
+│   └── ecommerce_churn_analysis.ipynb
+├── sql/
+│   └── data_extraction.sql
+├── README.md
